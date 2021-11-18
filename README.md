@@ -1,2 +1,2 @@
 # docker-sopds
-Run Simple OPDS server in a Docker container
+Run a [Simple OPDS server](https://github.com/mitshel/sopds) in a Docker container. 
